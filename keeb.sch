@@ -69,8 +69,6 @@ Text GLabel 4350 4525 1    50   Input ~ 0
 COL_8
 Text GLabel 3925 4525 1    50   Input ~ 0
 COL_7
-Text GLabel 3500 4525 1    50   Input ~ 0
-COL_6
 Text GLabel 3075 4525 1    50   Input ~ 0
 COL_5
 Text GLabel 2650 4525 1    50   Input ~ 0
@@ -1795,17 +1793,6 @@ Connection ~ 5675 5125
 Wire Wire Line
 	5675 5125 6025 5125
 $Comp
-L Switch:SW_Push SW126
-U 1 1 61A523D7
-P 5825 5475
-F 0 "SW126" H 5825 5760 50  0000 C CNN
-F 1 "SW_Push" H 5825 5669 50  0000 C CNN
-F 2 "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" H 5825 5675 50  0001 C CNN
-F 3 "~" H 5825 5675 50  0001 C CNN
-	1    5825 5475
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:D D126
 U 1 1 61A523DD
 P 5825 5600
@@ -2298,6 +2285,19 @@ F 1 "MountingHole" H 4175 7355 50  0001 L CNN
 F 2 "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_3u" H 4075 7400 50  0001 C CNN
 F 3 "~" H 4075 7400 50  0001 C CNN
 	1    4075 7400
+	1    0    0    -1  
+$EndComp
+Text GLabel 3500 4525 1    50   Input ~ 0
+COL_6
+$Comp
+L Switch:SW_Push SW126
+U 1 1 61A523D7
+P 5825 5475
+F 0 "SW126" H 5825 5760 50  0000 C CNN
+F 1 "SW_Push" H 5825 5669 50  0000 C CNN
+F 2 "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" H 5825 5675 50  0001 C CNN
+F 3 "~" H 5825 5675 50  0001 C CNN
+	1    5825 5475
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
