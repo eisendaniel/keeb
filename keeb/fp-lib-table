@@ -5,4 +5,5 @@
   (lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri ${KIPRJMOD}/lib/footprints/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))
   (lib (name Switch_Keyboard_Kailh)(type KiCad)(uri ${KIPRJMOD}/lib/footprints/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
   (lib (name 3d-library)(type KiCad)(uri ${KIPRJMOD}/lib/3dmodels/3d-library.3dshapes)(options "")(descr ""))
+  (lib (name unORTHOdox_CF)(type KiCad)(uri ${KIPRJMOD}/lib/footprints/unORTHOdox_CF.pretty)(options "")(descr ""))
 )

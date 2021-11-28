@@ -1,4 +1,4 @@
-19476680518009544
+19479956646893962
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85098,3 +85098,17 @@ varistor SIOV
 0
 2
 2
+unORTHOdox_CF
+Jack_3.5mm_TIC54-00177_Horizontal
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+5
+unORTHOdox_CF
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
