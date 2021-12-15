@@ -3066,10 +3066,10 @@ SCL
 Text GLabel 4500 3300 2    50   Input ~ 0
 SDA
 $Comp
-L Connector:AudioJack4 I2C_R
+L Connector:AudioJack4 I2C_102
 U 1 1 61BC1103
 P 3825 3300
-F 0 "I2C_R" H 3782 3625 50  0000 C CNN
+F 0 "I2C_102" H 3782 3625 50  0000 C CNN
 F 1 "AudioJack4" H 3782 3534 50  0000 C CNN
 F 2 "unORTHOdox_CF:Jack_3.5mm_TIC54-00177_Horizontal" H 3825 3300 50  0001 C CNN
 F 3 "https://tensility.s3.amazonaws.com/uploads/pdffiles/54-00177.pdf?X-Amz-Expires=600&X-Amz-Date=20211128T005402Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIS2S4WRDQDSWDRZQ%2F20211128%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=171e01fe49094ed0cdf1d5ee4dd310089a230a9be4a7cd19926a8270921837fa" H 3825 3300 50  0001 C CNN
@@ -3099,10 +3099,10 @@ F 3 "" H 4150 3525 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack4 I2C_L
+L Connector:AudioJack4 I2C_101
 U 1 1 61CFCA38
 P 2575 3300
-F 0 "I2C_L" H 2532 3625 50  0000 C CNN
+F 0 "I2C_101" H 2532 3625 50  0000 C CNN
 F 1 "AudioJack4" H 2532 3534 50  0000 C CNN
 F 2 "unORTHOdox_CF:Jack_3.5mm_TIC54-00177_Horizontal" H 2575 3300 50  0001 C CNN
 F 3 "https://tensility.s3.amazonaws.com/uploads/pdffiles/54-00177.pdf?X-Amz-Expires=600&X-Amz-Date=20211128T005402Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIS2S4WRDQDSWDRZQ%2F20211128%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=171e01fe49094ed0cdf1d5ee4dd310089a230a9be4a7cd19926a8270921837fa" H 2575 3300 50  0001 C CNN
