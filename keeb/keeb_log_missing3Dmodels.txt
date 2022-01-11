@@ -1,0 +1,1 @@
+[('Y101', '/home/daniel/projects/unORTHOdox/keeb/lib/3dmodels/ASVTX-13.STEP'), ('I2C_102', '/home/daniel/projects/unORTHOdox/keeb/lib/3dmodels/54-00177.STEP'), ('I2C_101', '/home/daniel/projects/unORTHOdox/keeb/lib/3dmodels/54-00177.STEP')]
