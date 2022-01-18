@@ -6078,7 +6078,7 @@
     (uuid 00000000-0000-0000-0000-000061b6b293)
     (property "Reference" "U101" (id 0) (at 232.41 149.86 0))
     (property "Value" "ATmega32U4-AU" (id 1) (at 239.395 152.4 0))
-    (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (id 2) (at 228.6 104.775 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 228.6 104.775 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 228.6 104.775 0)
@@ -7643,7 +7643,7 @@
       (reference "SW167") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/00000000-0000-0000-0000-000061b6b293"
-      (reference "U101") (unit 1) (value "ATmega32U4-AU") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
+      (reference "U101") (unit 1) (value "ATmega32U4-AU") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
     )
     (path "/00000000-0000-0000-0000-000061d89e61"
       (reference "Y101") (unit 1) (value "16Mhz") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
