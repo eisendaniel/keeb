@@ -391,7 +391,7 @@
       "idf": "",
       "netlist": "keeb.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keeb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
