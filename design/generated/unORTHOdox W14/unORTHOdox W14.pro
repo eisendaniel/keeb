@@ -1,0 +1,19 @@
+update=07/03/2023 21:31:25
+version=1
+last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
+[pcbnew]
+version=1
+LastNetListRead=
+UseCmpFile=1
+[cvpcb]
+version=1
+NetIExt=net
+[eeschema]
+version=1
+LibDir=
+[keyboard-tools]
+url=keyboard-tools.xyz

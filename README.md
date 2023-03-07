@@ -1,6 +1,3 @@
-# Keeb and Plate
+un**ORTHO**dox 14x5 keyboard
 
-![brd_f](img/brd_f.png)
-![brd_b](img/brd_b.png)
-![pcb](img/pcb.png)
-![shem](img/schem.png)
+![Alt text](images/layout.png)

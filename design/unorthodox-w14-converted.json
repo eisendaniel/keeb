@@ -1,0 +1,2760 @@
+{
+  "meta": {
+    "author": "",
+    "backcolor": "#eeeeee",
+    "background": null,
+    "name": "unORTHOdox W14",
+    "notes": "",
+    "radii": "",
+    "switchBrand": "",
+    "switchMount": "",
+    "switchType": ""
+  },
+  "keys": [
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "esc",
+        null,
+        null,
+        "` ~"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "!",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1",
+        null,
+        null,
+        "F1"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 1,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "@",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2",
+        null,
+        null,
+        "F2"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 2,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "#",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3",
+        null,
+        null,
+        "F3"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 3,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "$",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4",
+        null,
+        null,
+        "F4"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 4,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "%",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "5",
+        null,
+        null,
+        "F5"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 5,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "^",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "6",
+        null,
+        null,
+        "F6"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 6,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "&",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "7",
+        null,
+        null,
+        "F7"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 7,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "*",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "8",
+        null,
+        null,
+        "F8"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 8,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "(",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "9",
+        null,
+        null,
+        "F9"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 9,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        ")",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "0",
+        null,
+        null,
+        "F10"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 10,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "_",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "-",
+        null,
+        null,
+        "F11"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 11,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "+",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "=",
+        null,
+        null,
+        "F12"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 12,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "del"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 13,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "tab"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 0,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "q"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 1,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "w"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 2,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "e"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 3,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "r"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 4,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "t"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 5,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "y"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 6,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "u"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 7,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "i"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 8,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "o"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 9,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "p"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 10,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "{",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "["
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 11,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "}",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "]"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 12,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "|",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\\"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 13,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "back"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 0,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "a"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 1,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "s"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 2,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "d"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 3,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "f"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 4,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "g"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 5,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "h"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 6,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "j"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 7,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "k"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 8,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "l"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 9,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        ":",
+        null,
+        null,
+        null,
+        null,
+        null,
+        ";"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 10,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "\"",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "'"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 11,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ret"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 12,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ins"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 13,
+      "y": 2,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "lshift"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 0,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "z"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 1,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "x"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 2,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "c"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 3,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "v"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 4,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "b"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 5,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "n"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 6,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "m"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 7,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "<",
+        null,
+        null,
+        null,
+        null,
+        null,
+        ","
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 8,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        ">",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "."
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 9,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        "?",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "/"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 10,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "rshift"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 11,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "🢑",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "pgup"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        null,
+        9
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 12,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "prtscn",
+        null,
+        null,
+        "caps"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 13,
+      "y": 3,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ctrl"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 0,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "alt"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 1,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "super"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 2,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "fn"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 3,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "layer-dn"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 4,
+      "y": 4,
+      "width": 3,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 3,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "layer-up"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 7,
+      "y": 4,
+      "width": 3,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 3,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "fn"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 10,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "🢐",
+        null,
+        null,
+        null,
+        null,
+        "home"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        9
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 11,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        null,
+        "🢓",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "pgdn"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        null,
+        9
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 12,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    },
+    {
+      "color": "#cccccc",
+      "labels": [
+        null,
+        null,
+        null,
+        "🢒",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "end"
+      ],
+      "textColor": [
+        null,
+        null
+      ],
+      "textSize": [
+        null,
+        null,
+        null,
+        9,
+        null,
+        null
+      ],
+      "default": {
+        "textColor": "#424242",
+        "textSize": 3
+      },
+      "x": 13,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "x2": 0,
+      "y2": 0,
+      "width2": 1,
+      "height2": 1,
+      "rotation_x": 0,
+      "rotation_y": 0,
+      "rotation_angle": 0,
+      "decal": false,
+      "ghost": false,
+      "stepped": false,
+      "nub": false,
+      "profile": "",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Yellow"
+    }
+  ]
+}
