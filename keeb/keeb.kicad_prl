@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -10,7 +10,7 @@
     "opacity": {
       "images": 0.6,
       "pads": 0.6000000238418579,
-      "tracks": 0.6000000238418579,
+      "tracks": 0.8199999928474426,
       "vias": 0.5899999737739563,
       "zones": 0.3199999928474426
     },
@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "ffcffcf_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "keeb.kicad_prl",
