@@ -1,4 +1,4 @@
-22393310768315027
+22361695576593393
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67563,34 +67563,27 @@ Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch ISOEnter
 0
 4
 2
-PCM_kikit
-Board
-Mark board for extraction
-
+PCM_openinput
+PXI-DIP-16
+Optical Gaming Navigation Chip
+Optical Sensor Gaming Navigation Chip Tracking
 0
+16
+16
+PCM_openinput
+RotaryEncoder_Horizontal
+Rotary Encoder
+Rotary Encoder Gaming Mouse
 0
+5
+4
+PCM_openinput
+SW_Micro_Switch
+Micro Switch
+Ultra Subminiature Basic Micro Switch D2F
 0
-PCM_kikit
-Fiducial
-Circular Fiducial
-fiducial
-0
-1
-0
-PCM_kikit
-NPTH
-
-
-0
-0
-0
-PCM_kikit
-Tab
-A symbol representing annotation for tab placement
-
-0
-0
-0
+3
+3
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
