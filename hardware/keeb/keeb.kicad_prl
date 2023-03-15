@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -9,10 +9,10 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 0.8299999833106995,
-      "tracks": 0.8100000023841858,
-      "vias": 0.6000000238418579,
-      "zones": 0.5199999809265137
+      "pads": 0.8199999928474426,
+      "tracks": 0.800000011920929,
+      "vias": 0.8199999928474426,
+      "zones": 0.5799999833106995
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -65,7 +65,7 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "keeb.kicad_prl",
